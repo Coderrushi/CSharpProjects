@@ -1,0 +1,14 @@
+D:\dotNetPractice\csharpbasics\ClassandObject\bin\Debug\net6.0\ClassandObject.exe
+D:\dotNetPractice\csharpbasics\ClassandObject\bin\Debug\net6.0\ClassandObject.deps.json
+D:\dotNetPractice\csharpbasics\ClassandObject\bin\Debug\net6.0\ClassandObject.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\ClassandObject\bin\Debug\net6.0\ClassandObject.dll
+D:\dotNetPractice\csharpbasics\ClassandObject\bin\Debug\net6.0\ClassandObject.pdb
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.dll
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\refint\ClassandObject.dll
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.pdb
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ClassandObject.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\ClassandObject\obj\Debug\net6.0\ref\ClassandObject.dll
