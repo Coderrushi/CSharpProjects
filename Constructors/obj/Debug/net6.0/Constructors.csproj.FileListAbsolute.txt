@@ -1,0 +1,15 @@
+D:\dotNetPractice\csharpbasics\Constructors\bin\Debug\net6.0\Constructors.exe
+D:\dotNetPractice\csharpbasics\Constructors\bin\Debug\net6.0\Constructors.deps.json
+D:\dotNetPractice\csharpbasics\Constructors\bin\Debug\net6.0\Constructors.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\Constructors\bin\Debug\net6.0\Constructors.dll
+D:\dotNetPractice\csharpbasics\Constructors\bin\Debug\net6.0\Constructors.pdb
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.sourcelink.json
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.dll
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\refint\Constructors.dll
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.pdb
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\Constructors.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\Constructors\obj\Debug\net6.0\ref\Constructors.dll
