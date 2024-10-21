@@ -1,0 +1,15 @@
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\bin\Debug\net6.0\ShallowCopyAndDeepCopy.exe
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\bin\Debug\net6.0\ShallowCopyAndDeepCopy.deps.json
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\bin\Debug\net6.0\ShallowCopyAndDeepCopy.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\bin\Debug\net6.0\ShallowCopyAndDeepCopy.dll
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\bin\Debug\net6.0\ShallowCopyAndDeepCopy.pdb
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.sourcelink.json
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.dll
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\refint\ShallowCopyAndDeepCopy.dll
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.pdb
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ShallowCopyAndDeepCopy.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\ShallowCopyAndDeepCopy\obj\Debug\net6.0\ref\ShallowCopyAndDeepCopy.dll
