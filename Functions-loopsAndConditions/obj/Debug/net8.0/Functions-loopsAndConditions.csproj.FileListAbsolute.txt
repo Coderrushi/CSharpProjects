@@ -1,0 +1,14 @@
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\bin\Debug\net8.0\Functions-loopsAndConditions.exe
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\bin\Debug\net8.0\Functions-loopsAndConditions.deps.json
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\bin\Debug\net8.0\Functions-loopsAndConditions.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\bin\Debug\net8.0\Functions-loopsAndConditions.dll
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\bin\Debug\net8.0\Functions-loopsAndConditions.pdb
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.dll
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\refint\Functions-loopsAndConditions.dll
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.pdb
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\Functions-loopsAndConditions.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\Functions-loopsAndConditions\obj\Debug\net8.0\ref\Functions-loopsAndConditions.dll
