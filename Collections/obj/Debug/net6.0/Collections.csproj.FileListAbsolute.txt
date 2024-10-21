@@ -1,0 +1,15 @@
+F:\dotNetPractice\csharpbasics\Collections\bin\Debug\net6.0\Collections.exe
+F:\dotNetPractice\csharpbasics\Collections\bin\Debug\net6.0\Collections.deps.json
+F:\dotNetPractice\csharpbasics\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+F:\dotNetPractice\csharpbasics\Collections\bin\Debug\net6.0\Collections.dll
+F:\dotNetPractice\csharpbasics\Collections\bin\Debug\net6.0\Collections.pdb
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.sourcelink.json
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.dll
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\refint\Collections.dll
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.pdb
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+F:\dotNetPractice\csharpbasics\Collections\obj\Debug\net6.0\ref\Collections.dll
