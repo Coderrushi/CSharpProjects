@@ -1,0 +1,14 @@
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\bin\Debug\net6.0\CallByValueAndCallByReference.exe
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\bin\Debug\net6.0\CallByValueAndCallByReference.deps.json
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\bin\Debug\net6.0\CallByValueAndCallByReference.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\bin\Debug\net6.0\CallByValueAndCallByReference.dll
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\bin\Debug\net6.0\CallByValueAndCallByReference.pdb
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.dll
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\refint\CallByValueAndCallByReference.dll
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.pdb
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\CallByValueAndCallByReference.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\CallByValueAndCallByReference\obj\Debug\net6.0\ref\CallByValueAndCallByReference.dll
