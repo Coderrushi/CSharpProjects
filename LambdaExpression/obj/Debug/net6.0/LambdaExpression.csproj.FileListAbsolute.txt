@@ -1,0 +1,15 @@
+F:\dotNetPractice\csharpbasics\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+F:\dotNetPractice\csharpbasics\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+F:\dotNetPractice\csharpbasics\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+F:\dotNetPractice\csharpbasics\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+F:\dotNetPractice\csharpbasics\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.sourcelink.json
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\refint\LambdaExpression.dll
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache
+F:\dotNetPractice\csharpbasics\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll
