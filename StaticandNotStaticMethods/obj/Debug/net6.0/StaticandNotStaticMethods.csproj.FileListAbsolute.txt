@@ -1,0 +1,14 @@
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\bin\Debug\net6.0\StaticandNotStaticMethods.exe
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\bin\Debug\net6.0\StaticandNotStaticMethods.deps.json
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\bin\Debug\net6.0\StaticandNotStaticMethods.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\bin\Debug\net6.0\StaticandNotStaticMethods.dll
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\bin\Debug\net6.0\StaticandNotStaticMethods.pdb
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.dll
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\refint\StaticandNotStaticMethods.dll
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.pdb
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\StaticandNotStaticMethods.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\StaticandNotStaticMethods\obj\Debug\net6.0\ref\StaticandNotStaticMethods.dll
