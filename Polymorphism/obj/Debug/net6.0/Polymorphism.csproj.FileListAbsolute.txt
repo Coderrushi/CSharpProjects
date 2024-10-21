@@ -1,0 +1,15 @@
+D:\dotNetPractice\csharpbasics\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\dotNetPractice\csharpbasics\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\dotNetPractice\csharpbasics\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\dotNetPractice\csharpbasics\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.sourcelink.json
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
