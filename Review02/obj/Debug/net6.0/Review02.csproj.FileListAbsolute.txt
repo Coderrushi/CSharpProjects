@@ -1,0 +1,15 @@
+F:\CSharpProjects\Review02\bin\Debug\net6.0\Review02.exe
+F:\CSharpProjects\Review02\bin\Debug\net6.0\Review02.deps.json
+F:\CSharpProjects\Review02\bin\Debug\net6.0\Review02.runtimeconfig.json
+F:\CSharpProjects\Review02\bin\Debug\net6.0\Review02.dll
+F:\CSharpProjects\Review02\bin\Debug\net6.0\Review02.pdb
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.AssemblyInfoInputs.cache
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.AssemblyInfo.cs
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.sourcelink.json
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.dll
+F:\CSharpProjects\Review02\obj\Debug\net6.0\refint\Review02.dll
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.pdb
+F:\CSharpProjects\Review02\obj\Debug\net6.0\Review02.genruntimeconfig.cache
+F:\CSharpProjects\Review02\obj\Debug\net6.0\ref\Review02.dll
