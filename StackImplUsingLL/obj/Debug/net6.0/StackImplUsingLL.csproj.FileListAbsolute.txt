@@ -1,0 +1,15 @@
+F:\CSharpProjects\StackImplUsingLL\bin\Debug\net6.0\StackImplUsingLL.exe
+F:\CSharpProjects\StackImplUsingLL\bin\Debug\net6.0\StackImplUsingLL.deps.json
+F:\CSharpProjects\StackImplUsingLL\bin\Debug\net6.0\StackImplUsingLL.runtimeconfig.json
+F:\CSharpProjects\StackImplUsingLL\bin\Debug\net6.0\StackImplUsingLL.dll
+F:\CSharpProjects\StackImplUsingLL\bin\Debug\net6.0\StackImplUsingLL.pdb
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.AssemblyInfoInputs.cache
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.AssemblyInfo.cs
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.sourcelink.json
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.dll
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\refint\StackImplUsingLL.dll
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.pdb
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\StackImplUsingLL.genruntimeconfig.cache
+F:\CSharpProjects\StackImplUsingLL\obj\Debug\net6.0\ref\StackImplUsingLL.dll
