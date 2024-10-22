@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RwEgpFqH08xLWraWKUctM8ojIyf5WIaEhn5Es29nn2GADVeyyhcQ8PMwcPuWyyVwUZawj6VWuueNVzwnZI/akg==",
+  "dgSpecHash": "hCH5IKtA4wJGuZj8//JislGwsa1NrrvCA4wY0zEROEh12Ph9dX3G/qjlgiDNgQaLHyA1NlISazcyQ9sxmt2psw==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Encapsulation\\Encapsulation.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Encapsulation\\Encapsulation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

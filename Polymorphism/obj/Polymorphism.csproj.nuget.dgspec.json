@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\Polymorphism.csproj": {}
+    "F:\\CSharpProjects\\Polymorphism\\Polymorphism.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\Polymorphism.csproj": {
+    "F:\\CSharpProjects\\Polymorphism\\Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\Polymorphism.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Polymorphism\\Polymorphism.csproj",
         "projectName": "Polymorphism",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\Polymorphism.csproj",
+        "projectPath": "F:\\CSharpProjects\\Polymorphism\\Polymorphism.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

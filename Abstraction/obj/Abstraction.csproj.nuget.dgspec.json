@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Abstraction\\Abstraction.csproj": {}
+    "F:\\CSharpProjects\\Abstraction\\Abstraction.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Abstraction\\Abstraction.csproj": {
+    "F:\\CSharpProjects\\Abstraction\\Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Abstraction\\Abstraction.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Abstraction\\Abstraction.csproj",
         "projectName": "Abstraction",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Abstraction\\Abstraction.csproj",
+        "projectPath": "F:\\CSharpProjects\\Abstraction\\Abstraction.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Abstraction\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

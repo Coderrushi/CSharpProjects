@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHZW2NMjOjaEKSqIOhxzsfH5ysYvZ8bhVjw7YbCxqaTFtt+CR0590t3AUeykc52gTmnDHwZS0K50nXMeRYXRxw==",
+  "dgSpecHash": "o/CmmUFB1Ww9rhymcCUx5Ftb9FuaqUutO2RnxxRRCT+ny5rU9kUz83lorJaE/QV0H5h+KiM8Oo3+UwIU+Q7G8A==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\StaticMethod.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\StaticandNotStaticMethods\\StaticMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Inheritance\\Inheritance.csproj": {}
+    "F:\\CSharpProjects\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Inheritance\\Inheritance.csproj": {
+    "F:\\CSharpProjects\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Inheritance\\Inheritance.csproj",
+        "projectPath": "F:\\CSharpProjects\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Inheritance\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

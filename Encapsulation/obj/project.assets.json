@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Encapsulation\\Encapsulation.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\Encapsulation\\Encapsulation.csproj",
       "projectName": "Encapsulation",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\Encapsulation\\Encapsulation.csproj",
+      "projectPath": "F:\\CSharpProjects\\Encapsulation\\Encapsulation.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\Encapsulation\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

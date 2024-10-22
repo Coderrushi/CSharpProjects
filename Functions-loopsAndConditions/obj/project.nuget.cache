@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQx53zb8SHcxMjygx96rul0rN8ljKTZ1eUN0eOOb34vS8cDe+cmRdxxcTvAdArvvRKsGIeJr3pVQCxH6J3PyUQ==",
+  "dgSpecHash": "w3bOuxNWVFJ62Bax8rJ3spYbFa2R882HMXA1Nr04ml84bv6rwFiGAoZv5jQAGasjPP0cXv31n2B4bw5kV5jCdQ==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\Functions.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Functions-loopsAndConditions\\Functions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9M3uhATrl83lx7/PhjjLFRKdCNUfjv1h0JQhJD7419LqNdJwjJSgTHan1kDpzFZvtBDDPVeqhmJ9dUgCBeBLQ==",
+  "dgSpecHash": "A/Dfy3QU2IuhjuceYRgBH9nbn30gnXRrBuTOewzjmPbcmhKohZzAwg2vWFM4R7/nKLqYoiQABl4w2mIkb61+uw==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Constructors\\Constructors.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Constructors\\Constructors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

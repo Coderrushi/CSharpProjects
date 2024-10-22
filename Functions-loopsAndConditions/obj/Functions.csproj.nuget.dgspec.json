@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\Functions.csproj": {}
+    "F:\\CSharpProjects\\Functions-loopsAndConditions\\Functions.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\Functions.csproj": {
+    "F:\\CSharpProjects\\Functions-loopsAndConditions\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\Functions.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Functions-loopsAndConditions\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\Functions.csproj",
+        "projectPath": "F:\\CSharpProjects\\Functions-loopsAndConditions\\Functions.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Functions-loopsAndConditions\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Functions-loopsAndConditions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

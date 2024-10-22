@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AqLE5Xco6Q7i5sBcX+DWKwzDNtWGxCBHK2sh1zk027m4GaPRhj1jTQzCMdbv9RVbtfMYM9xSVH9JhPE8pMwF6g==",
+  "dgSpecHash": "DyNXs9YcbNz2PxEHSa4BrQw4ER4XNAzXopzV8tlEAE+VbM3Y+qK94USAVEqMQNqVgZfgM0s1UOwwkknepTSuAQ==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\LambdaExpression\\LambdaExpression.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\LambdaExpression\\LambdaExpression.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

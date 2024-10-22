@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
       "projectName": "ShallowCopyAndDeepCopy",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
+      "projectPath": "F:\\CSharpProjects\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\ShallowCopyAndDeepCopy\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\ShallowCopyAndDeepCopy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

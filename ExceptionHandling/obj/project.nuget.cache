@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zfw66v2J0hypbE2GES+TdOu7anP0NLRehwCENqjmFcO9H9/F9hkCQGlmaMnI7HU02gSoOHZ0h/u6J9ExtNsWtg==",
+  "dgSpecHash": "z6HJYjm/CH9XA0qHtMtwrxJ/w4P+NoEPT6ZJmtN74UlwXBuWNR7UO20xklt0Llkil3eF8/DerqnhBaN0l1g8uQ==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\ExceptionHandling\\ExceptionHandling.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\ExceptionHandling\\ExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

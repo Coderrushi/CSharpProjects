@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ber5zjbnTUaHDH0W0yn46vrmJnPmXeMTa8voWT4P7s1tcPDSytjTOR0he2ye+FV9VWrVKxaVcWhewze+LjsNeQ==",
+  "dgSpecHash": "m7JGKllikOC0cX4m4HsXCB7SU2h0XQLG61YXYpsEFQhJlEh1SXtwffPZLWRrqlsQoYrkynTUrc1Ia0pESfnxyw==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Inheritance\\Inheritance.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Inheritance\\Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

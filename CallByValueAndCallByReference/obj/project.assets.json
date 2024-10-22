@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
       "projectName": "CallByValueAndCallByReference",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
+      "projectPath": "F:\\CSharpProjects\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\CallByValueAndCallByReference\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\CallByValueAndCallByReference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

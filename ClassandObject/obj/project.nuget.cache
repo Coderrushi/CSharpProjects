@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n20JwifeleaSKlngiYZRTIvGgkgwcn4QbNPVekvPWa1otWDzPDch04m8NFgak42g8xyJ5hoi/r9DRwBzkXG52Q==",
+  "dgSpecHash": "YDmt+9/EBMcuGjrWbiy33EYXEPMuTBYNaH4kwt9G5Wj+w4E+hFhKXpmM7Cvs3556Cjs8cTUuY8Y2Ktbxaifz3A==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\ClassandObject.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\ClassandObject\\ClassandObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

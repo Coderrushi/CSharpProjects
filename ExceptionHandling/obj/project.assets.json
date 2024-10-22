@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\ExceptionHandling\\ExceptionHandling.csproj",
       "projectName": "ExceptionHandling",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectPath": "F:\\CSharpProjects\\ExceptionHandling\\ExceptionHandling.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\ExceptionHandling\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\ExceptionHandling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Loops\\Loops.csproj": {}
+    "F:\\CSharpProjects\\Loops\\Loops.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Loops\\Loops.csproj": {
+    "F:\\CSharpProjects\\Loops\\Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Loops\\Loops.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Loops\\Loops.csproj",
         "projectName": "Loops",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Loops\\Loops.csproj",
+        "projectPath": "F:\\CSharpProjects\\Loops\\Loops.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Loops\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hdKlh8t5jzYSE9pqT6PJyQZU0IR7dOV2ZL5vg3zN9DyowUuBQbKtCuiqN4UjET47smabu3VO/mTlOSvP8vyQ9Q==",
+  "dgSpecHash": "lIEOlp/G97ba4OyCUTVjBYpZSqxXUysr9pbh664fKdtlqAkpge85OQ8k2059T5KiAAxnc5ZqpaV3loMw3d9Lyg==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Datatypes\\Datatypes.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Datatypes\\Datatypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

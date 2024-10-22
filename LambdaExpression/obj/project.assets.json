@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\LambdaExpression\\LambdaExpression.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\LambdaExpression\\LambdaExpression.csproj",
       "projectName": "LambdaExpression",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\LambdaExpression\\LambdaExpression.csproj",
+      "projectPath": "F:\\CSharpProjects\\LambdaExpression\\LambdaExpression.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\LambdaExpression\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\LambdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

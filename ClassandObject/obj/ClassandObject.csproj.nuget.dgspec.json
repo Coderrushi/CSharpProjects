@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\ClassandObject.csproj": {}
+    "F:\\CSharpProjects\\ClassandObject\\ClassandObject.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\ClassandObject.csproj": {
+    "F:\\CSharpProjects\\ClassandObject\\ClassandObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\ClassandObject.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\ClassandObject\\ClassandObject.csproj",
         "projectName": "ClassandObject",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\ClassandObject.csproj",
+        "projectPath": "F:\\CSharpProjects\\ClassandObject\\ClassandObject.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\ClassandObject\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\ClassandObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

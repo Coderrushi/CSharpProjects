@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aQmn6VQVmBVJdFoyMQniKQB+tO/FbR2YVXPEsoYmfqFaaXlNYhUb/YNBPrKl3r5ORXbbUvWpbrv+AkYYAtYNqA==",
+  "dgSpecHash": "sCIYYsBuyA1z9YU6txsREw3QqaHc3Vi/JUipcfxRe+gh2KHl6ntDnTs/F5nmVts9Blo3JsyqAisnylGFvLAVyQ==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\ShallowCopyAndDeepCopy\\ShallowCopyAndDeepCopy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

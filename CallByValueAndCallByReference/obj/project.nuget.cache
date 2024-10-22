@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TTbtEVLHGQTuOhQHr8Tz2OUB3/x2CxQLIDRcXBDT+X6TQtUer80ArC+UIe0NtPdGTJThaOxsI9SYtShU7Fw6Dw==",
+  "dgSpecHash": "SWxRDiA+lylZ+NlyEE9wZ5FEpbA+ZyQMbZWt7A+QczK5uVWzwu0w2cvruoA7wypgMka+jX+qFmQ8hDl5hs6wvw==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\CallByValueAndCallByReference\\CallByValueAndCallByReference.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

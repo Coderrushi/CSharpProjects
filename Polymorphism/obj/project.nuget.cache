@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Fr5fpuJrAZ7OqfYFD7K8+nvUSqsAPGdrgP91PXlW/nLqvv6Usy56bEU7hzvk/4b3YPo4EN5P3VeZvu4+9CihQ==",
+  "dgSpecHash": "CtK4kMDorZfb5WAHYB2yMFeb+MGIGqIsDNncghypjKGRkt+dY8XC+dZoiVmww4dU6HzwegAcPo9e75D8nhpb1Q==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Polymorphism\\Polymorphism.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Polymorphism\\Polymorphism.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

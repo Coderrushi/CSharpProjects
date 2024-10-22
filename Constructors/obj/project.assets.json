@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Constructors\\Constructors.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\Constructors\\Constructors.csproj",
       "projectName": "Constructors",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\Constructors\\Constructors.csproj",
+      "projectPath": "F:\\CSharpProjects\\Constructors\\Constructors.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\Constructors\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\Constructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

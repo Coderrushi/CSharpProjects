@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\Interface\\Interface.csproj": {}
+    "F:\\CSharpProjects\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\Interface\\Interface.csproj": {
+    "F:\\CSharpProjects\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Interface\\Interface.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\Interface\\Interface.csproj",
+        "projectPath": "F:\\CSharpProjects\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\Interface\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

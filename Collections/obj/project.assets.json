@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\Collections\\Collections.csproj",
+      "projectUniqueName": "F:\\CSharpProjects\\Collections\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "F:\\dotNetPractice\\csharpbasics\\Collections\\Collections.csproj",
+      "projectPath": "F:\\CSharpProjects\\Collections\\Collections.csproj",
       "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-      "outputPath": "F:\\dotNetPractice\\csharpbasics\\Collections\\obj\\",
+      "outputPath": "F:\\CSharpProjects\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

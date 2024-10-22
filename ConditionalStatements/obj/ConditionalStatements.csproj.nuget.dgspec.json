@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\ConditionalStatements\\ConditionalStatements.csproj": {}
+    "F:\\CSharpProjects\\ConditionalStatements\\ConditionalStatements.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\ConditionalStatements\\ConditionalStatements.csproj": {
+    "F:\\CSharpProjects\\ConditionalStatements\\ConditionalStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\ConditionalStatements\\ConditionalStatements.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\ConditionalStatements\\ConditionalStatements.csproj",
         "projectName": "ConditionalStatements",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\ConditionalStatements\\ConditionalStatements.csproj",
+        "projectPath": "F:\\CSharpProjects\\ConditionalStatements\\ConditionalStatements.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\ConditionalStatements\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\ConditionalStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

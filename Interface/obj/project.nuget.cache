@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ynHVaCEvBogkoqCqf6Q+BSgEQ/spuGQLgBLPfi7dKIU7OFTYKQfxeFNGqtkg4AJgU773w6+e0ybOwtCglbjvA==",
+  "dgSpecHash": "pmQ18lrpo0vlktNyP4JdrtivMgpWpFcyJfvBi+q+zBm58T2jf2SHYHWZ5D2qwAZmKqHKRpqngmQIm5jqbN5O7Q==",
   "success": true,
-  "projectFilePath": "F:\\dotNetPractice\\csharpbasics\\Interface\\Interface.csproj",
+  "projectFilePath": "F:\\CSharpProjects\\Interface\\Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

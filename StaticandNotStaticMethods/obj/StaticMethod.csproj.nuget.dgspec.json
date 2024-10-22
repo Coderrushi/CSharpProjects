@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\StaticMethod.csproj": {}
+    "F:\\CSharpProjects\\StaticandNotStaticMethods\\StaticMethod.csproj": {}
   },
   "projects": {
-    "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\StaticMethod.csproj": {
+    "F:\\CSharpProjects\\StaticandNotStaticMethods\\StaticMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\StaticMethod.csproj",
+        "projectUniqueName": "F:\\CSharpProjects\\StaticandNotStaticMethods\\StaticMethod.csproj",
         "projectName": "StaticMethod",
-        "projectPath": "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\StaticMethod.csproj",
+        "projectPath": "F:\\CSharpProjects\\StaticandNotStaticMethods\\StaticMethod.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "F:\\dotNetPractice\\csharpbasics\\StaticandNotStaticMethods\\obj\\",
+        "outputPath": "F:\\CSharpProjects\\StaticandNotStaticMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
